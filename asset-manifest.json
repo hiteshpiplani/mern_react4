@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mern_react4/static/css/main.c1ed9b0d.css",
+    "main.js": "/mern_react4/static/js/main.dd85f05f.js",
+    "index.html": "/mern_react4/index.html",
+    "main.c1ed9b0d.css.map": "/mern_react4/static/css/main.c1ed9b0d.css.map",
+    "main.dd85f05f.js.map": "/mern_react4/static/js/main.dd85f05f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1ed9b0d.css",
+    "static/js/main.dd85f05f.js"
+  ]
+}
